@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "name.biologyfire.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"FlintAndSteelItemMixin",
+		"VillagerEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
